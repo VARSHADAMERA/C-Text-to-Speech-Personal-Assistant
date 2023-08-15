@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1630395898 source:c:\rajiv\aditya\codeblocks\personal assisstant\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
+1691916837 source:c:\users\varsh\desktop\projectcpp\personal-assistant-application\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
+1691951165 source:c:\users\varsh\documents\projectcpp\personal-assistant-application\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	<mmsystem.h>
+
